@@ -1,0 +1,1 @@
+A multi process solution to the classic Knight's Tour problem written in C. Contains flags for parallel vs non-parallel modes that can be specified via -D NO_PARALLEL (defaults to parallel processing).
